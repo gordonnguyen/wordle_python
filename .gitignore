@@ -3,3 +3,4 @@
 /htmlcov
 /pavement.py
 /radon.report
+__pycache__/
