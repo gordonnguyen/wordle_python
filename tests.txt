@@ -1,0 +1,19 @@
+x canary
+
+x tally for target FAVOR guess FAVOR
+x tally for target FAVOR guess TESTS
+x tally for target FAVOR guess RAPID
+x tally for target FAVOR guess MAYOR
+x tally for target FAVOR guess RIVER
+x tally for target FAVOR guess AMAST
+x tally for target SKILL guess SKILL
+x tally for target SKILL guess SWIRL
+x tally for target SKILL guess CIVIL
+x tally for target SKILL guess SHIMS
+x tally for target SKILL guess SILLY
+x tally for target SKILL guess SLICE
+
+x play first attempt with a winning guess
+x play first attempt with a non-winning guess
+x play second attempt with a winning guess
+x play second attempt with a non-winning guess
